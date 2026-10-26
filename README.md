@@ -71,6 +71,20 @@ I'm a backend engineer based in Bangladesh, with experience designing, modernizi
 - **Oracle Certified Professional, Java SE 7 Programmer**
 - **Oracle Certified Associate, Java SE 7 Programmer**
 
+## 🚀 Selected Backend Projects
+
+These repositories demonstrate practical backend engineering patterns, with source code and implementation details available for review.
+
+| Project | Engineering focus |
+|---|---|
+| [JWT Current Context Demo](https://github.com/rocky-bgta/jwt-current-context-demo) | Spring Boot JWT authentication, Redis-backed token state, and MongoDB room-context isolation; includes security tests and CI. |
+| [Spring Boot 3 Security with JWT](https://github.com/rocky-bgta/spring-boot3-security-with-jwt) | Authentication and authorization design with Spring Security, JWT, and focused unit tests. |
+| [Spring Caching with Redis](https://github.com/rocky-bgta/spring-caching-redis) | Cache integration with Redis, Spring Boot, and Docker. |
+| [Spring Boot Kafka Producer](https://github.com/rocky-bgta/spring-boot-with-kafka-producer) / [Consumer](https://github.com/rocky-bgta/spring-boot-with-kafka-consumer) | Event-driven messaging examples with Apache Kafka. |
+| [Local LLM IntelliJ Plugin](https://github.com/rocky-bgta/my-local-llm-plugin) | Developer tooling that connects IntelliJ IDEA to a locally running language model. |
+
+**What to review:** authentication boundaries, session isolation, messaging flows, cache behavior, tests, and documented trade-offs. These are learning/demo repositories, not claims of production deployment.
+
 ## 📊 GitHub Activity
 
 <div align="center">
