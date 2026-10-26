@@ -75,7 +75,7 @@ I'm a backend engineer based in Bangladesh, with experience designing, modernizi
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rocky-bgta&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rocky-bgta&show_icons=true&hide_border=true&hide_rank=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rocky-bgta&layout=compact&hide_border=true)
 
